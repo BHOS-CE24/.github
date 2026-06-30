@@ -7,7 +7,7 @@ We are a team of computer engineering students at BHOS whose goal is to develop 
 
 ---
 
-## The Ten Commandments of the Holy CE
+## The Ten Commandments of BHOS CE24
 
 I. Thou shalt leave the codebase better than thou found it.  
 II. Thou shalt favor clarity over cleverness.  
